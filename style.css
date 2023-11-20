@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+#navbarcss{
+    background-color: #5F7470;
+
+   
+}
+
+body{
+  background-color: #B8BDB5;
+}
+
+
+
+#navbarcss p{
+    color:aliceblue ;
+
+
+
+}
+
+#navbarcss a{
+    color:rgb(4, 4, 4) ;
+        text-decoration: none;
+
+
+}
+
+
+
+#footrcss{
+    background-color: #889696;
+}
